@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: https://hewei-nju.github.io/
+url: https://WeiHea.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -104,5 +104,5 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://github.com/hewei-nju/hewei-nju.github.io
+  repository: https://github.com/WeiHea/WeiHea.github.io
   branch: main
